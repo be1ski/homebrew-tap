@@ -1,6 +1,6 @@
 cask "vibits" do
-  version "1.2.0"
-  sha256 "b7ae0b9d891de0b2ff6e1e4e305858fc54a741d3c6f3385192ee53ea73055b9e"
+  version "1.2.1"
+  sha256 "add4278c8c6d9423049eafdd598d4dd07ba1bbc98f9050a9b15a42014f9ef734"
 
   url "https://github.com/be1ski/vibits/releases/download/v#{version}/Vibits-#{version}.dmg"
   name "Vibits"
